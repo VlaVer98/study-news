@@ -1,0 +1,15 @@
+{
+	"autoload": {
+		"psr-4": {
+			"study_news\\": "vendor/study_news/core",
+			"app\\": "app"
+		},
+		"files": [
+            "vendor/study_news/core/libs/functions.php"
+        ]
+	},
+	"require": {
+		"gabordemooij/redbean": "dev-master",
+		"vlucas/valitron": "^1.4"
+	}
+}

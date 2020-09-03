@@ -1,0 +1,32 @@
+a.brand-link.logo {
+    background: #E63D2C;
+}
+
+a.brand-link.logo img {
+    width: 100%;
+}
+nav.main-header.navbar.navbar-expand.navbar-white.navbar-light {
+    padding-bottom: 10px;
+    padding-top: 0;
+}
+.main-footer img {
+	height: 50px;
+}
+a.category {
+    display: block;
+    width: 100%;
+}
+a.category p {
+    display: inline-block;
+}
+a.category i {
+    display: inline-block;
+}
+
+i.right.fas.fa-angle-left.nav-link.posright {
+    float: right;
+}
+
+i.fas.fas.fa-folder.posrleft {
+    padding-left: 20px;
+}

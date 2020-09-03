@@ -1,0 +1,12 @@
+/vendor/*
+!/vendor/study_news/
+/public/img/gallery/*
+!/public/img/gallery/.gitkeep
+/public/img/photo/*
+!/public/img/photo/default_avatar.png
+/public/docs/*
+!/public/docs/.gitkeep
+/tmp/cache/*
+!/tmp/cache/.gitkeep
+/tmp/error.log
+/.idea
